@@ -7,11 +7,11 @@ Uma lista de imagens de pinturas famosas, com seus respectivos nomes e autores l
 
 ## Layout esperado Desktop:
 Layout com as imagens uma ao lado da outra, no formato de desktop.
-<img src="./src/design/layout.desktop.jpg">
+<img src="./src/design/layout-desktop.jpg" alt="Imagem exemplo do layout do projeto desktop">
 
 ## Layout esperado Mobile:
 Layout com as imagens uma abaixo da outra, com um pequeno gap de 1px. Formato mobile.
-<img src="./src/design/layout.mobile.jpg">
+<img src="./src/design/layout-mobile.png" alt="Imagem exemplo do layout do projeto Mobile">
 
 ## Serviços usados 
 - VSCode;
