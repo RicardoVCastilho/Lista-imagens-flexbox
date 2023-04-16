@@ -18,8 +18,8 @@ Layout com as imagens uma ao lado da outra, no formato de desktop.
 Exibição de pinturas de artistas famosos.
 
 ## Links
-- GitPages:
-- Link do repositório: 
+- GitPages: https://ricardovcastilho.github.io/Lista-imagens-flexbox/
+- Link do repositório: https://github.com/RicardoVCastilho/Lista-imagens-flexbox
 
 ## Autor
 Ricardo Vitor Castilho.
